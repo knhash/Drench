@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385993159 source:c:\users\administrator\documents\codeblocks\drenchfinal\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<limits.h>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+
